@@ -4,14 +4,14 @@
 	<style type="text/css">
 		.st0{opacity:0.4;fill:#EFD49E;animation:flash 5s infinite}
 		.st1{fill:#FFFFFF;}
-		.st2{fill:#F7B66F;}
-		.st3{fill:#EFAA65;}
+		.st2{fill:#FAFAFA;}
+		.st3{fill:#F1F1F1;}
 		.st4{fill:none;stroke:#283035;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;}
 		.st5{fill:none;stroke:#283035;stroke-width:6;stroke-linejoin:round;}
 		.st6{fill:#E5E5E5;}
 		.st7{fill:#CFD1D0;}
 		.st8{fill:#D2DCE6;}
-		.st9{fill:#FF5C5C;}
+		.st9{fill:#62BDEF;}
 		.st10{opacity:0.3;fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;enable-background:new    ;}
 		.st11{opacity:0.3;}
 		.st12{fill:#686B6D;}
@@ -26,17 +26,17 @@
 		.st21{fill:none;stroke:#F2F3F4;stroke-width:3;stroke-miterlimit:10;}
 		.st22{fill:none;stroke:#FFA49F;stroke-width:3;stroke-miterlimit:10;}
 		.st23{fill:none;stroke:#283035;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;transform-origin:18% 0%;animation: rot 2500ms infinite}
-		.st24{fill:#EAD57D;}
-		.st25{fill:#E5C66E;}
-		.st26{fill:#5CBF84;}
-		.st27{fill:#4FB277;}
-		.st28{fill:#54AF79;}
+		.st24{fill:#666666;}
+		.st25{fill:#444444;}
+		.st26{fill:#F1F1F1;}
+		.st27{fill:#FAFAFA;}
+		.st28{fill:#FAFAFA;}
 		.st29{fill:none;stroke:#212728;stroke-linecap:round;stroke-miterlimit:10;}
 		.st30{fill:none;stroke:#283035;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
 		.st31{fill:#EDA762;}
 		.st32{fill:#8EAFBF;}
 		.st33{fill:none;stroke:#8BAFC1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
-		.st34{fill:#3BBC88;}
+		.st34{fill:#62BDEF;}
 		.st35{fill:none;stroke:#283035;stroke-width:4.0002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0002;}
 		.st36{fill:none;stroke:#283035;stroke-width:3.9982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9982;}
 		.st37{display:none;fill:#E5E5E5;}
@@ -48,7 +48,7 @@
 			9.999%,11.999%,39.999%,41.999%,69.999%,71.999%,97.999%,99.999%{
 				opacity:0.1;
 			}
-		} 
+		}
 		@keyframes rot{
 		o%{
 		transform:rotateY(0deg)
